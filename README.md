@@ -12,7 +12,7 @@ Run the above command in the terminal
 
 ## Requirements
 
--> pip install streamlit
--> pip install pandas
--> pip install sqlparse
--> pip install cx_Oracle
+-> pip install streamlit <br>
+-> pip install pandas <br>
+-> pip install sqlparse <br>
+-> pip install cx_Oracle 
